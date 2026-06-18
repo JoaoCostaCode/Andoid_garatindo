@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="Frases"> // isso daqui vai servir como um identificador para as frases
+        <item>Vermelho Paixão</item>
+        <item>Coração de Touro</item>
+        <item>Garantido Meu Amor</item>
+        <item>Batucada da Baixa</item>
+        <item>Ritual da Floresta</item>
+        <item>Lenda Amazônica</item>
+        <item>Toada do Povão</item>
+        <item>Encanto Vermelho</item>
+        <item>Filhos da Amazônia</item>
+        <item>Noite de Parintins</item>
+        <item>Touro Guerreiro</item>
+        <item>Chama da Cultura</item>
+        <item>Magia Cabocla</item>
+        <item>Festa do Garantido</item>
+        <item>Vermelho que Encanta</item>
+        <item>Rainha da Batucada</item>
+        <item>Guardião da Floresta</item>
+        <item>Ecos do Amazonas</item>
+        <item>Orgulho Encarnado</item>
+        <item>Celebração Vermelha</item>
+    </array>
+</resources>

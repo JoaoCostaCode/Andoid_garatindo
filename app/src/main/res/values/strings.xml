@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">firstAplication</string>
+    <string name="nome">Informe seu nome</string>
+    <string name="txt_btn">processar!</string>
+    <string name="resultado">Seja bem vindo:</string>
+
+</resources>

@@ -1,0 +1,74 @@
+# ==========================================
+# Android / Gradle
+# ==========================================
+
+# Build
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+build/
+*/build/
+out/
+bin/
+gen/
+
+# Gradle
+.gradle/
+
+# Manter o wrapper do Gradle
+!gradle/wrapper/gradle-wrapper.jar
+
+# ==========================================
+# Arquivos locais/sensíveis
+# ==========================================
+
+local.properties
+*.jks
+*.keystore
+
+# Firebase / Google Services
+# Descomente se necessário
+# google-services.json
+
+# ==========================================
+# Android Studio / IntelliJ
+# ==========================================
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Configurações específicas do workspace
+shelf/
+workspace.xml
+
+# Capturas e builds nativos
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Navigation editor
+.navigation/
+
+# ==========================================
+# Logs
+# ==========================================
+
+*.log
+crashlytics-build.properties
+
+# ==========================================
+# Sistema Operacional
+# ==========================================
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
